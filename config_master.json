@@ -1,0 +1,18 @@
+{
+  "bot": {
+    "bottoken": "6448530590:AAE_sCHVBVnMcT_lFRGpDYZ6kGvmAfXPqxk",
+    "CryptoPaytoken": "129767:AAE9bAzg9sARUYZQpaXHXa0qYamcogBojsD",
+    "CryptoPaytokenTest": "9514:AAyJkzlu1z0GfhhBpsQDRI7nlmk3Y3Ul7wH",
+    "sub_chat_ids": [
+      -100123456,
+      -100654321
+    ],
+    "admin_ids": [
+      123456,
+      654321
+    ],
+    "logs_chat": [
+      123456
+    ]
+  }
+}
